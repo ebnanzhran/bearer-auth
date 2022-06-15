@@ -8,7 +8,7 @@ Token (Bearer) Authentication
 
 ## [ Pull Request](https://github.com/ebnanzhran/bearer-auth/pull/1)
 
-## [Action link]()<br>
+## [Action link](https://github.com/ebnanzhran/bearer-auth/actions)<br>
 <br>
 
 ## UML Diagram :
